@@ -8,3 +8,4 @@
 ## 2020-08-16 17:43:49 - feat(ui): add ui endpoint (7/20)
 ## 2020-09-13 22:50:15 - feat(cache): create cache handler (17/20)
 ## 2020-09-19 14:06:18 - feat(build): add build support (18/20)
+## 2020-09-26 15:02:44 - feat(model): implement model module (20/20)
