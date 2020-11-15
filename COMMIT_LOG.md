@@ -11,3 +11,4 @@
 ## 2020-09-26 15:02:44 - feat(model): implement model module (20/20)
 ## 2020-09-26 16:11:34 - feat(queue): add queue endpoint (2/20)
 ## 2020-10-04 18:18:38 - feat(build): implement build feature (4/20)
+## 2020-11-15 12:31:13 - feat(auth): create auth handler (13/20)
