@@ -13,3 +13,4 @@
 ## 2020-10-04 18:18:38 - feat(build): implement build feature (4/20)
 ## 2020-11-15 12:31:13 - feat(auth): create auth handler (13/20)
 ## 2020-11-19 21:50:21 - feat(worker): create worker handler
+## 2020-11-22 09:46:23 - feat(worker): add worker endpoint (10/20)
