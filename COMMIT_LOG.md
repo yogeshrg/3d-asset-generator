@@ -15,3 +15,4 @@
 ## 2020-11-19 21:50:21 - feat(worker): create worker handler
 ## 2020-11-22 09:46:23 - feat(worker): add worker endpoint (10/20)
 ## 2020-12-12 19:04:12 - feat(model): implement model feature (19/20)
+## 2020-12-19 13:34:27 - feat(metric): implement metric feature (8/20)
