@@ -17,3 +17,4 @@
 ## 2020-12-12 19:04:12 - feat(model): implement model feature (19/20)
 ## 2020-12-19 13:34:27 - feat(metric): implement metric feature (8/20)
 ## 2021-01-03 12:59:45 - feat(test): create test handler (15/20)
+## 2021-01-09 15:45:39 - feat(docs): implement docs module (14/20)
