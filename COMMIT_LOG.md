@@ -18,3 +18,4 @@
 ## 2020-12-19 13:34:27 - feat(metric): implement metric feature (8/20)
 ## 2021-01-03 12:59:45 - feat(test): create test handler (15/20)
 ## 2021-01-09 15:45:39 - feat(docs): implement docs module (14/20)
+## 2021-01-24 15:21:19 - feat(queue): add queue support (12/20)
