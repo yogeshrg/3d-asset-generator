@@ -20,3 +20,4 @@
 ## 2021-01-09 15:45:39 - feat(docs): implement docs module (14/20)
 ## 2021-01-24 15:21:19 - feat(queue): add queue support (12/20)
 ## 2021-01-30 21:26:23 - feat(test): create test handler (6/20)
+## 2021-01-31 16:36:49 - feat(ui): implement ui module (14/20)
