@@ -26,3 +26,4 @@
 ## 2021-04-04 09:28:56 - feat(api): implement api module (12/20)
 ## 2021-05-09 19:54:49 - feat(test): create test handler (1/20)
 ## 2021-05-16 14:11:39 - feat(data): implement data module (15/20)
+## 2021-05-23 13:31:46 - feat(ui): create ui handler (13/20)
