@@ -28,3 +28,4 @@
 ## 2021-05-16 14:11:39 - feat(data): implement data module (15/20)
 ## 2021-05-23 13:31:46 - feat(ui): create ui handler (13/20)
 ## 2021-07-17 09:45:12 - feat(cache): implement cache module (20/20)
+## 2021-07-17 16:22:59 - feat(alert): create alert handler (17/20)
