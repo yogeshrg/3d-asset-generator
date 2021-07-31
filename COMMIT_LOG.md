@@ -29,3 +29,4 @@
 ## 2021-05-23 13:31:46 - feat(ui): create ui handler (13/20)
 ## 2021-07-17 09:45:12 - feat(cache): implement cache module (20/20)
 ## 2021-07-17 16:22:59 - feat(alert): create alert handler (17/20)
+## 2021-07-31 11:06:31 - feat(auth): add auth support (19/20)
