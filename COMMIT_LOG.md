@@ -31,3 +31,4 @@
 ## 2021-07-17 16:22:59 - feat(alert): create alert handler (17/20)
 ## 2021-07-31 11:06:31 - feat(auth): add auth support (19/20)
 ## 2021-07-31 13:24:58 - feat(docs): implement docs module (9/20)
+## 2021-08-21 09:00:10 - feat(auth): implement auth module (19/20)
