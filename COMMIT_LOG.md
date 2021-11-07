@@ -35,3 +35,4 @@
 ## 2021-08-23 13:04:00 - feat(ci): add ci support
 ## 2021-08-28 14:13:46 - feat(ci): add ci support (9/20)
 ## 2021-09-17 11:29:37 - feat(infra): implement infra module
+## 2021-11-07 21:25:54 - feat(alert): add alert endpoint (5/20)
