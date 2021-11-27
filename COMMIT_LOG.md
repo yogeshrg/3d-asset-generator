@@ -37,3 +37,4 @@
 ## 2021-09-17 11:29:37 - feat(infra): implement infra module
 ## 2021-11-07 21:25:54 - feat(alert): add alert endpoint (5/20)
 ## 2021-11-20 16:41:27 - feat(config): add config endpoint (1/20)
+## 2021-11-27 12:48:35 - feat(data): implement data feature (16/20)
