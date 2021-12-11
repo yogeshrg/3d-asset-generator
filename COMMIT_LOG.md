@@ -40,3 +40,4 @@
 ## 2021-11-27 12:48:35 - feat(data): implement data feature (16/20)
 ## 2021-12-04 21:10:00 - feat(auth): add auth endpoint (14/20)
 ## 2021-12-11 10:12:07 - feat(worker): add worker endpoint (5/20)
+## 2021-12-11 21:06:22 - feat(data): add data endpoint (15/20)
