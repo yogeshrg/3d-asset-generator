@@ -41,3 +41,4 @@
 ## 2021-12-04 21:10:00 - feat(auth): add auth endpoint (14/20)
 ## 2021-12-11 10:12:07 - feat(worker): add worker endpoint (5/20)
 ## 2021-12-11 21:06:22 - feat(data): add data endpoint (15/20)
+## 2022-01-15 23:56:27 - feat(build): create build handler (19/20)
