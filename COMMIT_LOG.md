@@ -42,3 +42,4 @@
 ## 2021-12-11 10:12:07 - feat(worker): add worker endpoint (5/20)
 ## 2021-12-11 21:06:22 - feat(data): add data endpoint (15/20)
 ## 2022-01-15 23:56:27 - feat(build): create build handler (19/20)
+## 2022-01-22 10:10:57 - feat(config): add config support (15/20)
