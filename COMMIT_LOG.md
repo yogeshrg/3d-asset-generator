@@ -48,3 +48,4 @@
 ## 2022-03-13 23:27:27 - feat(alert): create alert handler (1/20)
 ## 2022-03-17 14:32:44 - feat(data): implement data module
 ## 2022-03-26 09:58:03 - feat(test): implement test feature (10/20)
+## 2022-03-31 15:05:14 - feat(alert): add alert endpoint
