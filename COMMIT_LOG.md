@@ -50,3 +50,4 @@
 ## 2022-03-26 09:58:03 - feat(test): implement test feature (10/20)
 ## 2022-03-31 15:05:14 - feat(alert): add alert endpoint
 ## 2022-04-16 13:40:18 - feat(data): add data endpoint (13/20)
+## 2022-04-16 14:39:09 - feat(worker): add worker endpoint (6/20)
