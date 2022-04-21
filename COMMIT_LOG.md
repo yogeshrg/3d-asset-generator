@@ -51,3 +51,4 @@
 ## 2022-03-31 15:05:14 - feat(alert): add alert endpoint
 ## 2022-04-16 13:40:18 - feat(data): add data endpoint (13/20)
 ## 2022-04-16 14:39:09 - feat(worker): add worker endpoint (6/20)
+## 2022-04-21 19:28:56 - feat(worker): implement worker feature
