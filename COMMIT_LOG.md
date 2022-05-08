@@ -52,3 +52,4 @@
 ## 2022-04-16 13:40:18 - feat(data): add data endpoint (13/20)
 ## 2022-04-16 14:39:09 - feat(worker): add worker endpoint (6/20)
 ## 2022-04-21 19:28:56 - feat(worker): implement worker feature
+## 2022-05-08 13:57:07 - feat(api): add api support (20/20)
