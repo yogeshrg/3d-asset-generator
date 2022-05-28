@@ -55,3 +55,4 @@
 ## 2022-05-08 13:57:07 - feat(api): add api support (20/20)
 ## 2022-05-15 10:42:39 - feat(metric): create metric handler (13/20)
 ## 2022-05-21 09:37:51 - feat(build): add build support (14/20)
+## 2022-05-28 11:07:51 - feat(core): add core support (13/20)
