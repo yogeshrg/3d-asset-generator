@@ -58,3 +58,4 @@
 ## 2022-05-28 11:07:51 - feat(core): add core support (13/20)
 ## 2022-06-06 23:24:09 - feat(cache): implement cache module
 ## 2022-07-16 13:11:21 - feat(cache): add cache endpoint (9/20)
+## 2022-07-17 13:20:16 - feat(alert): create alert handler (11/20)
