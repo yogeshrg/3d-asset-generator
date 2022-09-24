@@ -66,3 +66,4 @@
 ## 2022-08-27 11:16:31 - feat(ci): implement ci feature (1/20)
 ## 2022-08-27 15:52:45 - feat(core): add core endpoint (18/20)
 ## 2022-09-17 13:03:03 - feat(auth): create auth handler (1/20)
+## 2022-09-24 19:26:46 - feat(infra): implement infra feature (9/20)
