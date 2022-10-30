@@ -70,3 +70,4 @@
 ## 2022-10-24 19:03:46 - feat(deploy): implement deploy module
 ## 2022-10-29 23:41:52 - feat(model): create model handler (11/20)
 ## 2022-10-30 11:31:55 - feat(deploy): implement deploy feature (17/20)
+## 2022-10-30 19:03:12 - feat(core): add core support (18/20)
