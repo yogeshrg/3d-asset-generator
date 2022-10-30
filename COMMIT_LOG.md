@@ -69,3 +69,4 @@
 ## 2022-09-24 19:26:46 - feat(infra): implement infra feature (9/20)
 ## 2022-10-24 19:03:46 - feat(deploy): implement deploy module
 ## 2022-10-29 23:41:52 - feat(model): create model handler (11/20)
+## 2022-10-30 11:31:55 - feat(deploy): implement deploy feature (17/20)
