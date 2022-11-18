@@ -72,3 +72,4 @@
 ## 2022-10-30 11:31:55 - feat(deploy): implement deploy feature (17/20)
 ## 2022-10-30 19:03:12 - feat(core): add core support (18/20)
 ## 2022-11-02 19:25:04 - feat(metric): add metric support
+## 2022-11-18 15:48:04 - feat(config): implement config module
