@@ -74,3 +74,4 @@
 ## 2022-11-02 19:25:04 - feat(metric): add metric support
 ## 2022-11-18 15:48:04 - feat(config): implement config module
 ## 2022-11-19 09:26:50 - feat(deploy): create deploy handler (18/20)
+## 2022-12-04 22:24:27 - feat(api): add api endpoint (13/20)
