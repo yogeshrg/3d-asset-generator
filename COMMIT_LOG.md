@@ -75,3 +75,4 @@
 ## 2022-11-18 15:48:04 - feat(config): implement config module
 ## 2022-11-19 09:26:50 - feat(deploy): create deploy handler (18/20)
 ## 2022-12-04 22:24:27 - feat(api): add api endpoint (13/20)
+## 2022-12-10 10:43:12 - feat(docs): create docs handler (12/20)
