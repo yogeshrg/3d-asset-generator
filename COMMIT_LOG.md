@@ -78,3 +78,4 @@
 ## 2022-12-10 10:43:12 - feat(docs): create docs handler (12/20)
 ## 2022-12-10 10:47:31 - feat(docs): create docs handler (18/20)
 ## 2022-12-11 17:04:00 - feat(metric): add metric support (7/20)
+## 2023-01-05 12:41:17 - feat(log): add log support
