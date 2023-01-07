@@ -80,3 +80,4 @@
 ## 2022-12-11 17:04:00 - feat(metric): add metric support (7/20)
 ## 2023-01-05 12:41:17 - feat(log): add log support
 ## 2023-01-07 18:37:31 - feat(data): implement data module (17/20)
+## 2023-01-07 23:11:24 - feat(metric): implement metric feature (3/20)
