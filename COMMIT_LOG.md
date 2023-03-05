@@ -82,3 +82,4 @@
 ## 2023-01-07 18:37:31 - feat(data): implement data module (17/20)
 ## 2023-01-07 23:11:24 - feat(metric): implement metric feature (3/20)
 ## 2023-02-26 16:21:24 - feat(docs): implement docs feature (17/20)
+## 2023-03-05 23:27:19 - feat(deploy): add deploy support (15/20)
