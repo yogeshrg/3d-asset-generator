@@ -84,3 +84,4 @@
 ## 2023-02-26 16:21:24 - feat(docs): implement docs feature (17/20)
 ## 2023-03-05 23:27:19 - feat(deploy): add deploy support (15/20)
 ## 2023-03-09 16:58:16 - feat(auth): add auth support
+## 2023-03-11 18:02:40 - feat(ui): create ui handler (6/20)
