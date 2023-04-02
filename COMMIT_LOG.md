@@ -87,3 +87,4 @@
 ## 2023-03-11 18:02:40 - feat(ui): create ui handler (6/20)
 ## 2023-03-12 12:00:39 - feat(auth): implement auth module (14/20)
 ## 2023-03-12 22:50:42 - feat(deploy): create deploy handler (3/20)
+## 2023-04-02 18:42:56 - feat(security): add security endpoint (13/20)
