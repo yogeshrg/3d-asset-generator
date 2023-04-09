@@ -89,3 +89,4 @@
 ## 2023-03-12 22:50:42 - feat(deploy): create deploy handler (3/20)
 ## 2023-04-02 18:42:56 - feat(security): add security endpoint (13/20)
 ## 2023-04-08 10:49:06 - feat(ci): implement ci feature (19/20)
+## 2023-04-09 13:12:26 - feat(monitor): add monitor support (11/20)
