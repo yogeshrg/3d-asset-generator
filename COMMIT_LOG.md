@@ -92,3 +92,4 @@
 ## 2023-04-09 13:12:26 - feat(monitor): add monitor support (11/20)
 ## 2023-04-15 19:10:39 - feat(api): implement api feature (20/20)
 ## 2023-06-07 19:25:22 - feat(cache): implement cache feature
+## 2023-06-11 22:36:15 - feat(monitor): add monitor endpoint (18/20)
