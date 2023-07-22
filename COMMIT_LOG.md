@@ -98,3 +98,4 @@
 ## 2023-06-25 15:36:15 - feat(ci): implement ci feature (7/20)
 ## 2023-06-25 19:03:07 - feat(config): implement config module (6/20)
 ## 2023-07-09 19:56:38 - feat(monitor): create monitor handler (5/20)
+## 2023-07-22 19:30:57 - feat(deploy): add deploy endpoint (13/20)
