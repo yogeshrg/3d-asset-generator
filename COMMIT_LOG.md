@@ -106,3 +106,4 @@
 ## 2023-10-01 21:14:02 - feat(log): add log support (6/20)
 ## 2023-10-21 11:22:07 - feat(data): add data endpoint (4/20)
 ## 2023-10-28 21:44:13 - feat(ui): implement ui module (13/20)
+## 2023-11-12 20:18:07 - feat(cache): create cache handler (17/20)
