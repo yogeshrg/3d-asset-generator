@@ -109,3 +109,4 @@
 ## 2023-11-12 20:18:07 - feat(cache): create cache handler (17/20)
 ## 2023-12-10 16:31:49 - feat(metric): implement metric feature (15/20)
 ## 2024-01-27 17:06:13 - feat(infra): implement infra module (2/20)
+## 2024-02-16 18:56:20 - feat(metric): create metric handler
