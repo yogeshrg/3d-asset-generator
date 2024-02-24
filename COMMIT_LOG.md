@@ -111,3 +111,4 @@
 ## 2024-01-27 17:06:13 - feat(infra): implement infra module (2/20)
 ## 2024-02-16 18:56:20 - feat(metric): create metric handler
 ## 2024-02-17 10:33:30 - feat(ui): add ui support (18/20)
+## 2024-02-24 15:47:04 - feat(log): create log handler (1/20)
