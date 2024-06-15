@@ -115,3 +115,4 @@
 ## 2024-02-25 09:00:55 - feat(ci): implement ci module (16/20)
 ## 2024-05-26 11:37:00 - feat(cache): create cache handler (5/20)
 ## 2024-06-08 15:51:56 - feat(model): create model handler (11/20)
+## 2024-06-15 19:42:01 - feat(docs): add docs endpoint (2/20)
