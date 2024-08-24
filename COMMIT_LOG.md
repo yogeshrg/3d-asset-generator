@@ -119,3 +119,4 @@
 ## 2024-06-30 22:45:05 - feat(api): implement api feature (15/20)
 ## 2024-07-13 12:28:59 - feat(api): add api endpoint (7/20)
 ## 2024-08-10 15:56:13 - feat(ui): add ui endpoint (7/20)
+## 2024-08-24 17:28:03 - feat(docs): add docs endpoint (11/20)
