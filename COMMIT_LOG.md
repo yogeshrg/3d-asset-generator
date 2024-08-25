@@ -120,3 +120,4 @@
 ## 2024-07-13 12:28:59 - feat(api): add api endpoint (7/20)
 ## 2024-08-10 15:56:13 - feat(ui): add ui endpoint (7/20)
 ## 2024-08-24 17:28:03 - feat(docs): add docs endpoint (11/20)
+## 2024-08-25 14:32:25 - feat(infra): add infra endpoint (18/20)
