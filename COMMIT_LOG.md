@@ -121,3 +121,4 @@
 ## 2024-08-10 15:56:13 - feat(ui): add ui endpoint (7/20)
 ## 2024-08-24 17:28:03 - feat(docs): add docs endpoint (11/20)
 ## 2024-08-25 14:32:25 - feat(infra): add infra endpoint (18/20)
+## 2024-09-07 18:42:45 - feat(monitor): create monitor handler (12/20)
