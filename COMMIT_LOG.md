@@ -127,3 +127,4 @@
 ## 2024-12-08 12:09:38 - feat(config): implement config module (13/20)
 ## 2024-12-09 10:07:07 - feat(test): add test support
 ## 2024-12-14 13:43:51 - feat(db): add db endpoint (6/20)
+## 2025-01-05 19:49:34 - feat(core): create core handler (17/20)
