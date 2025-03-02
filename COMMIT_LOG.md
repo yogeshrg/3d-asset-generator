@@ -133,3 +133,4 @@
 ## 2025-02-09 10:11:43 - feat(data): add data endpoint (4/20)
 ## 2025-02-22 16:45:04 - feat(model): add model endpoint (17/20)
 ## 2025-02-23 22:53:11 - feat(model): create model handler (17/20)
+## 2025-03-02 12:55:24 - feat(cache): add cache support (8/20)
