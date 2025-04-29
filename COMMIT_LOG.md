@@ -143,3 +143,4 @@
 ## 2025-04-27 11:12:05 - feat(data): create data handler (7/20)
 ## 2025-04-27 15:26:48 - feat(config): add config endpoint (17/20)
 ## 2025-04-27 15:42:23 - feat(cache): create cache handler (4/20)
+## 2025-04-29 10:22:38 - feat(security): create security handler
