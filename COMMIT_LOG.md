@@ -151,3 +151,4 @@
 ## 2025-07-19 10:49:50 - feat(deploy): implement deploy feature (4/20)
 ## 2025-07-26 12:45:18 - feat(metric): add metric endpoint (17/20)
 ## 2025-08-02 21:50:10 - feat(api): implement api feature (15/20)
+## 2025-08-10 13:55:24 - feat(config): add config support (12/20)
