@@ -169,3 +169,4 @@
 ## 2026-02-14 14:06:25 - feat(config): implement config feature (4/20)
 ## 2026-03-08 22:24:03 - feat(auth): create auth handler (19/20)
 ## 2026-03-22 13:58:34 - feat(queue): add queue endpoint (3/20)
+## 2026-04-23 11:31:14 - feat(worker): add worker support
